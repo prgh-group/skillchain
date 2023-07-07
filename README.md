@@ -1,5 +1,7 @@
 # SkillChain
 
+<img width="552" alt="skillchain-logo" src="https://github.com/prgh-group/skillchain/assets/18443024/e3557a1d-84e7-4729-953d-6c23fbd3d995">
+
 ## Mission Statement
 SkillChain's mission is to empower learners, coaches, recruiters, and managers by providing a dynamic and transparent skill accreditation platform. We aim to revolutionize the way intellectual capital gained through professional and academic experience is recognized and valued. Our open-source skill analytics SaaS, developed by young IT professionals, offers real-world software engineering experience while addressing the needs of individuals and organizations in the ever-evolving learning and development landscape.
 
